@@ -9,4 +9,3 @@ A Flutter application that uses TensorFlow Lite to classify images of Villains f
 
 
 https://github.com/arulyashwanth/Villain-Classification/assets/144155992/6cb7a149-5399-43df-b121-e67e7933746b
-
