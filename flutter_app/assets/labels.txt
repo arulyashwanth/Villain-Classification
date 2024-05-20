@@ -1,0 +1,5 @@
+0 Joker
+1 Darth Vader
+2 Green Goblin
+3 Thanos
+4 Venom
